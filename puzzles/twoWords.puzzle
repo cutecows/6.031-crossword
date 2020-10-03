@@ -1,0 +1,5 @@
+>> "TwoWords" "puzzle with two words for testing purposes" //javacomment
+
+//(word, "hint", DIR, row, col)
+(test, "test", ACROSS, 0, 0)
+(safe, "safe", DOWN, 0, 2)

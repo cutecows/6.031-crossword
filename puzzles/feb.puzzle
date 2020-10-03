@@ -1,0 +1,12 @@
+>> "Feb"  "crossword about February"
+
+//(word, "hint", DIR, row, col)
+(valentines, "the sweetest day", ACROSS, 11, 0)
+(winter, "February's Season", ACROSS, 13, 3)
+(leapyear, "happens every 4 years 2 words", DOWN, 6, 8)
+(blackhistory, "February is ___ Month (2 words)", ACROSS, 6, 7)
+(lincoln, "President Abraham __", DOWN, 3, 10)
+(presidents, "___ Day - A holiday celebration our leaders", ACROSS, 1, 8)
+(groundhog, "February 2 is __ Day", DOWN, 0, 9)
+(washington, "Our first president", DOWN, 4, 11)
+(shortest, "February is the __ month", DOWN, 4, 13)

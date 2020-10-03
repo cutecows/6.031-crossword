@@ -1,0 +1,4 @@
+>> "OneWord" "puzzle with one word for testing purposes" //javacomment
+
+//(word, "hint", DIR, row, col)
+(test, "test", ACROSS, 0, 0)
